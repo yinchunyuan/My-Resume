@@ -1,0 +1,34 @@
+{
+  "titleNameMap":
+  {
+    "educationList":"教育背景",
+    "workExpList":"工作经历",
+    "projectList":"项目经验",
+    "skillList":"个人技能",
+    "awardList":"更多信息",
+    "workList":"个人作品",
+    "aboutme":"个人评价"
+  },
+  "avatar":{"src":"https://avatars.githubusercontent.com/u/15646325?v=4","hidden":false},
+  "profile":
+            {
+             "name":"尹春媛",
+             "email":"kjknuhb@outlook.com",
+             "mobile":"19837532028",
+             "github":"https://github.com/yinchunyuan",
+             "zhihu":"",
+             "workExpYear":""
+            },
+  "educationList":
+         [
+          {"edu_time":["2023.09.10","2026.07.01"],
+           "school":"河南财经政法大学",
+           "major":"计算机网络技术（专科）",
+           "dataIndex":0}
+         ],
+  "awardList":[{"award_info":"英语 CET4",
+  "award_time":"2025","dataIndex":0}],
+  "workExpList":[],"skillList":[],"projectList":[],"workList":[],
+  "aboutme":{"aboutme_desc":"河南财经政法大学在23年招的最后一届专科"},
+  "theme":{"color":"#2f5785","tagColor":"#8bc34a"}
+}
